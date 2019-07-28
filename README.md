@@ -1,10 +1,12 @@
-<center>
-# 2block2chains
-</center>
-
+<div align="center">
+<h1>
+2block2chains
+</h1>
+<p>Making the voting easier in India, one step at a time</p>
+</div>
 ---
 
-# Voting through Blockchain
+## Voting through Blockchain
 
 India is a vast country with a huge population of 1.3 Billion. With such a large population, choosing a representative for the nation becomes a festival. It is a long dull event that drags on for weeks and months and that is one of the primary reasons for low voter turnout. If only the process was simpler and faster the voters would be much more enthusiastic to participate in the celebration of independence and democracy.
 
