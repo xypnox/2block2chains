@@ -1,6 +1,9 @@
 <div align="center">
     <img src='logo.png' />
+    <br />
+    <br />
     <p>Making the voting easier in India, one step at a time</p>
+    <br />
 </div>
 
 ---
