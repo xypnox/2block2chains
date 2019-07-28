@@ -1,8 +1,6 @@
 <div align="center">
-<h1>
-2block2chains
-</h1>
-<p>Making the voting easier in India, one step at a time</p>
+    <img src='logo.png' />
+    <p>Making the voting easier in India, one step at a time</p>
 </div>
 
 ---
@@ -21,13 +19,13 @@ When a voter visits a polling booth to cast a vote, he will show his voter ID ca
 
 ## What we are building?
 
-We are building a blockchain based voter ID generation system and a voting status tracker. When a new person's voter ID card is generated, his name is added as a transaction to the blockchain. Then the verification of the voter ID card can be done using blockchain anywhere. Since the proof of work will be huge, faking the blockchain would be practically impossible. 
+We are building a blockchain based voter ID generation system and a voting status tracker. When a new person's voter ID card is generated, his name is added as a transaction to the blockchain. Then the verification of the voter ID card can be done using blockchain anywhere. Since the proof of work will be huge, faking the blockchain would be practically impossible.
 
 Then, When the person casts a vote, his details again will be added to the blockchain. This blockchain will have a lower proof of work since insertions have to be rapid. However, since there will be several thousands of insertions every second, due to voting happening all over India, the blockchain would remain secure.
 
 ## How does this work?
 
-Normally, each voter is given a specific booth to vote at and he can only vote inside his residential district. This dilemma makes it impossible for people living anywhere other than their hometown to cast a vote. However, since the blockchain is shared through the Internet, the barrier would be non-existent. 
+Normally, each voter is given a specific booth to vote at and he can only vote inside his residential district. This dilemma makes it impossible for people living anywhere other than their hometown to cast a vote. However, since the blockchain is shared through the Internet, the barrier would be non-existent.
 
 ## How users can get started?
 
